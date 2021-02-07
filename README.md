@@ -1,6 +1,6 @@
 # Assignment 1: Accessibility
 
-[Go to the Deployed Web Application Here]https://ladystephani.github.io/Assignment1-Accessibility/
+[Go to the Deployed Web Application Here]<div style="display: inline">https://ladystephani.github.io/Assignment1-Accessibility/</div>
 
 ## Description
 This assignment's topic is web page accessibility. The initial code on the Horiseon business web page was provided by the Columbia Coding Bootcamp.
@@ -11,4 +11,4 @@ Code refactored for better search engine optimization in the repository include:
 
 ## Credit
 Original web page credit to the Columbia Coding Bootcamp partnered with Trilogy Education Services, LLC, a 2U, Inc. brand.
-[HTML and CSS tutorial]https://www.w3schools.com/
+HTML and CSS tutorials used courtesy of <div style="display: inline">https://www.w3schools.com/</div>
