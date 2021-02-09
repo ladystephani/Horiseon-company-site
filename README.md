@@ -18,7 +18,7 @@ HTML and CSS tutorials used courtesy of:<div style="display: inline">https://www
 ## License
 MIT License
 
-Copyright (c) [2021] [ladystephani]
+Copyright (c) 2021 ladystephani
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
