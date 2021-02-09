@@ -13,7 +13,7 @@ In this web page, you will learn about important information by the Horiseon com
 
 ## Credit
 Original web page credit to the Columbia Coding Bootcamp partnered with Trilogy Education Services, LLC, a 2U, Inc. brand.
-HTML and CSS tutorials used courtesy of:<div style="display: inline">https://www.w3schools.com/</div>
+HTML and CSS tutorials used courtesy of:*[w3schools](https://www.w3schools.com/)
 
 ## License
 MIT License
